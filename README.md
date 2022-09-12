@@ -1,1 +1,3 @@
-# E_JUTILA_HW1
+# Team Epic
+
+All about our epic development team.
